@@ -1,10 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AssetTracking_1
 {
-    internal class Laptop : Asset
+    public class Laptop : Asset
     {
+        public string SerialNr { get; }
+
+        public Laptop(string brand, string modelName, string office, DateTime purchaseDate, decimal purchasePriceUSD
+            , string serialNr) : base(brand, modelName, office, purchaseDate, purchasePriceUSD)
+        {
+            SerialNr = serialNr;
+        }
     }
 }

@@ -1,0 +1,15 @@
+C:\Repos\AssetTracking-1\AssetTracking-1\bin\Debug\net10.0\AssetTracking-1.exe
+C:\Repos\AssetTracking-1\AssetTracking-1\bin\Debug\net10.0\AssetTracking-1.deps.json
+C:\Repos\AssetTracking-1\AssetTracking-1\bin\Debug\net10.0\AssetTracking-1.runtimeconfig.json
+C:\Repos\AssetTracking-1\AssetTracking-1\bin\Debug\net10.0\AssetTracking-1.dll
+C:\Repos\AssetTracking-1\AssetTracking-1\bin\Debug\net10.0\AssetTracking-1.pdb
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.AssemblyInfoInputs.cache
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.AssemblyInfo.cs
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.csproj.CoreCompileInputs.cache
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.sourcelink.json
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.dll
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\refint\AssetTracking-1.dll
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.pdb
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\AssetTracking-1.genruntimeconfig.cache
+C:\Repos\AssetTracking-1\AssetTracking-1\obj\Debug\net10.0\ref\AssetTracking-1.dll
